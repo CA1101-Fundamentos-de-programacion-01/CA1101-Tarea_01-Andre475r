@@ -1,4 +1,4 @@
-moneda_encontradas = 20
+monedas_encontradas = 20
 
 monedas_robadas = 10
 
