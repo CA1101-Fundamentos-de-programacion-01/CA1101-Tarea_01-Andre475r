@@ -1,8 +1,11 @@
-z = 20
+monedas_encontradas = 20
 
-x = 10
+monedas_robadas = 10
 
-y = 3
+monedas_magicas = 3
+
+resultado =monedas_encontradas + monedas_robadas * 365 -monedas_magicas *52
 
 
-resultado = z + x * 365 - y * 52
+
+
